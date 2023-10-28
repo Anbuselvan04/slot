@@ -154,6 +154,10 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
+
+![image](https://github.com/Anbuselvan04/slot/assets/119410896/a3b75a38-adfb-4b3e-94c8-04b2cf4047b6)
+
+
 ![image](https://github.com/Anbuselvan04/slot/assets/119410896/22ac5b0b-33e0-4bbe-bf6d-6fa672f1b97e)
 
 
